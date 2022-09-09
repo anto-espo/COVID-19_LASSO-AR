@@ -1,0 +1,1003 @@
+﻿complete;Feature Importance;2;4;Severity;Gene Function;Proposed mechanism of action;Pre-existing knowledge;Reference;Polymorphism;Type
+STXBP5L_2;-0,28533;chr3:STXBP5L:NM_001308330:exon17:c.C1703G:p.T568S,STXBP5L:NM_001348343:exon17:c.C1703G:p.T568S,STXBP5L:NM_001348344:exon17:c.C1703G:p.T568S,STXBP5L:NM_001348345:exon17:c.C1703G:p.T568S,STXBP5L:NM_014980:exon17:c.C1703G:p.T568S;373;protection;Plays a role in vesicle trafficking and exocytosis inhibition. In pancreatic beta-cells, inhibits insulin secretion probably by interacting with and regulating STX1A and STX4, key t-SNARE proteins involved in the fusion of insulin granules to the plasma membrane;None;increase risk of COVID-19 mortality among the patients with white British ancestry.;Genetic variants are identified to increase risk of COVID-19 related mortality from UK Biobank data.Jianchang Hu, Cai Li, Shiying Wang, Ting Li, Heping Zhang;None;Common Haplotypes
+FHOD3_3;-0,28166;chr18:FHOD3:NM_001281740:exon12:c.C1364T:p.S455L_chr18:FHOD3:NM_001281739:exon19:c.G3400A:p.V1134I,FHOD3:NM_025135:exon20:c.G3451A:p.V1151I,FHOD3:NM_001281740:exon23:c.G3976A:p.V1326I;502;protection;Play a role in regulation of the actin cytoskeleton in cardiomyocytes. Associated with cardiomiopathies. Isoform 4 may play a role in actin filament polymerization in cardiomyocytes.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=FHOD3&keywords=FHOD3;None;Common Haplotypes
+SLC15A4_1;0,247536;chr12:SLC15A4:NM_145648:exon2:c.T716C:p.V239A;217;severity;This gene encodes an integral membrane protein that functions as a transporter of thyroid hormone.This gene is expressed in many tissues and likely plays an important role in the development of the central nervous system.  ;None;Slc15a4 is required to control chronic viral infection.;Blasius AL, Krebs P, Sullivan BM, Oldstone MB, Popkin DL (2012) Slc15a4, a Gene Required for pDC Sensing of TLR Ligands, Is Required to Control Persistent Viral Infection. PLOS Pathogens 8(9): e1002915. https://doi.org/10.1371/journal.ppat.1002915;The SNP V239A is of uncertain significance;Common Haplotypes
+EP300_1;0,2382;chr22:EP300:NM_001362843:exon14:c.A2911G:p.I971V,EP300:NM_001429:exon15:c.A2989G:p.I997V;618;severity;This gene encodes the adenovirus E1A-associated cellular p300 transcriptional co-activator protein. It functions as histone acetyltransferase that regulates transcription via chromatin remodeling and is important in the processes of cell proliferation and differentiation.;None;Epstein-Barr virus nuclear antigen (EBNA) leader protein (EBNALP) is one of the first viral genes expressed upon B-cell infection. EBNALP coactivates transcription through subverting of EP300 and thus affects the expression of LCL genes regulated by a broad range of host TFs.;"Epstein-Barr Virus Nuclear Antigen Leader Protein Coactivates EP300, Chong Wang, Hufeng Zhou, Yong Xue, Jun Liang, Yohei Narita, Catherine Gerdt, Amy Y. Zheng, Runsheng Jiang, Stephen Trudeau, Chih-Wen Peng, Benjamin E. Gewurz, Bo Zhao. Journal of Virology Apr 2018, 92 (9) e02155-17; DOI: 10.1128/JVI.02155-17";None;Common Haplotypes
+PDE11A_2;0,216288;chr2:PDE11A:NM_001077196:exon17:c.1431_1432insTCC:p.S477_P478insS,PDE11A:NM_001077358:exon19:c.1689_1690insTCC:p.S563_P564insS,PDE11A:NM_016953:exon20:c.2763_2764insTCC:p.S921_P922insS,PDE11A:NM_001077197:exon21:c.2013_2014insTCC:p.S671_P672insS_chr2:PDE11A:NM_016953:exon1:c.G551A:p.R184Q;898;Protection;Phosphodiesterase 11 is a Protein Coding gene, which catalyzes the hydrolysis of cAMP and cGMP.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDE11A&keywords=PDE11A_2;None;Common Haplotypes
+HOXC4_1;-0,19026;chr12:HOXC4:NM_153633:exon1:c.A400G:p.I134V,HOXC4:NM_014620:exon3:c.A400G:p.I134V;481;Protection;Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis.;None;HOXC4 is expressed in CD34+ cells and that its overexpression induces an in vitro expansion of committed as well as very early hematopoietic progenitors.;Antonio Daga, Marina Podesta, Maria Cristina Capra, Giovanna Piaggio, Francesco Frassoni, Giorgio Corte,The retroviral transduction of HOXC4 into human CD34+ cells induces an in vitro expansion of clonogenic and early progenitors,Experimental Hematology,Volume 28, Issue 5,;None;Common Haplotypes
+DLEC1_2;0,162942;chr3:DLEC1:NM_001321153:exon1:c.T236G:p.L79R,DLEC1:NM_007335:exon1:c.T236G:p.L79R,DLEC1:NM_007337:exon1:c.T236G:p.L79R;398;severity;May act as a tumor suppressor by inhibiting cell proliferation;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLEC1&keywords=DLEC1;None;Common Haplotypes
+FNDC9_1;-0,16047;chr5:FNDC9:NM_001001343:exon2:c.G412A:p.V138I;457;Protection;Function is not known;None;None;None;None;Common Haplotypes
+FBXL22_1;-0,12396;chr15:FBXL22:NM_001367807:exon1:c.G343C:p.V115L,FBXL22:NM_001367808:exon1:c.G343C:p.V115L,FBXL22:NM_001367809:exon1:c.G343C:p.V115L,FBXL22:NM_203373:exon1:c.G343C:p.V115L;318;Protection;This gene encodes a member of the F-box protein family. This F-box protein interacts with S-phase kinase-associated protein 1A and cullin in order to form SCF complexes which function as ubiquitin ligases.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBXL22&keywords=FBXL22;None;Common Haplotypes
+LSR_1;-0,12121;chr19:LSR:NM_001260490:exon6:c.1228_1229insGGA:p.R411_S412insR,LSR:NM_205835:exon7:c.1348_1349insGGA:p.R451_S452insR,LSR:NM_001260489:exon8:c.1492_1493insGGA:p.R499_S500insR,LSR:NM_015925:exon8:c.1495_1496insGGA:p.R500_S501insR,LSR:NM_205834:exon9:c.1552_1553insGGA:p.R519_S520insR;907;Protection;Function is not known;;None;None;None;Common Haplotypes
+IRX5_1;0,116966;chr16:IRX5:NM_001252197:exon3:c.C760A:p.P254T,IRX5:NM_005853:exon3:c.C763A:p.P255T;789;severity;This gene encodes a member of the iroquois homeobox gene family, which are involved in several embryonic developmental processes.Establishes the cardiac repolarization gradient by its repressive actions on the KCND2 potassium-channel gene. Required for retinal cone bipolar cell differentiation. ;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=IRX5&keywords=IRX5;None;Common Haplotypes
+ALDH3A1_2;0,108103;chr17:ALDH3A1:NM_001135168:exon7:c.C985G:p.P329A,ALDH3A1:NM_001330150:exon7:c.C766G:p.P256A,ALDH3A1:NM_000691:exon8:c.C985G:p.P329A,ALDH3A1:NM_001135167:exon8:c.C985G:p.P329A_chr17:ALDH3A1:NM_001135168:exon3:c.T400G:p.S134A,ALDH3A1:NM_001330150:exon3:c.T181G:p.S61A,ALDH3A1:NM_000691:exon4:c.T400G:p.S134A,ALDH3A1:NM_001135167:exon4:c.T400G:p.S134A;669;severity;ALDHs play a major role in the detoxification of alcohol-derived acetaldehyde.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH3A1&keywords=ALDH3A1;None;Common Haplotypes
+RNF212_1;0,107786;chr4:RNF212:NM_001193318:exon4:c.A784G:p.I262V_chr4:RNF212:NM_001193318:exon4:c.721_722insGGCTGGCTCCAGCCTGGGCAG:p.S241delinsWLAPAWAA;575;Severity;acts as a regulator of crossing-over during meiosis: required to couple chromosome synapsis to the formation of crossover-specific recombination complexes.;None;May be involved in meiotic recombination.;https://www.genecards.org/cgi-bin/carddisp.pl?gene=RNF212&keywords=RNF212_;None;Common Haplotypes
+SVIL_1;0,104222;chr10:SVIL:NM_021738:exon8:c.G1264A:p.V422I;477;severity;"[Isoform 1]: Forms a high-affinity link between the actin cytoskeleton and the membrane. Is among the first costameric proteins to assemble during myogenesis and it contributes to myogenic membrane structure and differentiation; [Isoform 2]: May be involved in modulation of focal adhesions. Supervillin-mediated down-regulation of focal adhesions involves binding to TRIP6. Plays a role in cytokinesis through KIF14 interaction. ";None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=SVIL&keywords=SVIL;None;Common Haplotypes
+GSTM3_1;-0,10041;chr1:GSTM3:NM_000849:exon9:c.G670A:p.V224I;647;Protection;This gene encodes an enzyme that catalyzes the glutathione-related clearance of xenobiotic.;None;GSTM3 interacts with E7 from HPV18.;Checa-Rojas, Alberto et al. “GSTM3 and GSTP1: novel players driving tumor progression in cervical cancer.” Oncotarget vol. 9,31 21696-21714. 24 Apr. 2018, doi:10.18632/oncotarget.24796;The SNP (G670A) is associated with lung cancer and neurodegenerative disorders. ;Common Haplotypes
+SYT8_5;0,093133;chr11:SYT8:NM_001290332:exon4:c.T361C:p.C121R,SYT8:NM_001290333:exon4:c.T358C:p.C120R,SYT8:NM_001290334:exon4:c.T355C:p.C119R,SYT8:NM_138567:exon4:c.T358C:p.C120R_chr11:SYT8:NM_001290332:exon6:c.C658G:p.P220A,SYT8:NM_001290333:exon6:c.C655G:p.P219A,SYT8:NM_001290334:exon6:c.C652G:p.P218A,SYT8:NM_138567:exon6:c.C655G:p.P219A_chr11:SYT8:NM_001290332:exon9:c.C1120T:p.R374W,SYT8:NM_001290333:exon9:c.C1117T:p.R373W,SYT8:NM_001290334:exon9:c.C1114T:p.R372W,SYT8:NM_138567:exon9:c.C1117T:p.R373W;567;Protection;This gene encodes an enzyme that catalyzes the glutathione-related clearance of xenobiotic.;None;GSTM3 interacts with E7 from HPV18.;https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT8&keywords=SYT8;None;Common Haplotypes
+HAPLN3_2;-0,08081;chr15:HAPLN3:NM_001307952:exon2:c.A100G:p.T34A_chr15:HAPLN3:NM_001307952:exon2:c.C49T:p.Q17X;760;protection;This gene belongs to the hyaluronan and proteoglycan binding link protein gene family. The protein encoded by this gene may function in hyaluronic acid binding and cell adhesion.;None;ACE2-mediated entry of SARS-CoV and CoV-2 requires the cell surface heparan sulfate (HS) as an assisting cofactor:;"Zhang Q, Chen CZ, Swaroop M, Xu M, Wang L, Lee J, Wang AQ, Pradhan M, Hagen N, Chen L, Shen M, Luo Z, Xu X, Xu Y, Huang W, Zheng W, Ye Y. Heparan sulfate assists SARS-CoV-2 in cell entry and can be targeted by approved drugs in vitro. Cell Discov. 2020 Nov 4;6(1):80. doi: 10.1038/s41421-020-00222-5. PMID: 33298900; PMCID: PMC7610239.";None;Common Haplotypes
+F5_2;-0,0732;chr1:F5:NM_000130:exon16:c.A5290G:p.M1764V_chr1:F5:NM_000130:exon13:c.A2773G:p.K925E_chr1:F5:NM_000130:exon13:c.A2594G:p.H865R_chr1:F5:NM_000130:exon13:c.A2573G:p.K858R;365;protection;This gene encodes an essential cofactor of the blood coagulation cascade. ;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=F5&keywords=F5_;None;Common Haplotypes
+ALK_3;0,060831;chr2:ALK:NM_001353765:exon10:c.C1383G:p.D461E,ALK:NM_004304:exon29:c.C4587G:p.D1529E_chr2:ALK:NM_001353765:exon10:c.A1268G:p.K423R,ALK:NM_004304:exon29:c.A4472G:p.K1491R_chr2:ALK:NM_001353765:exon10:c.A1177G:p.I393V,ALK:NM_004304:exon29:c.A4381G:p.I1461V;500;severity;This gene encodes a receptor tyrosine kinase, which belongs to the insulin receptor superfamily.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALK&keywords=ALK;None;Common Haplotypes
+HERC5_1;0,057731;chr4:HERC5:NM_016323:exon12:c.A1492G:p.M498V;664;severity;This gene is a member of the HERC family of ubiquitin ligases and encodes a protein with a HECT domain and five RCC1 repeats. Pro-inflammatory cytokines upregulate expression of this gene in endothelial cells. The protein localizes to the cytoplasm and perinuclear region and functions as an interferon-induced E3 protein ligase that mediates ISGylation of protein targets.;None;HERC5 promotes expression of IRF3-dependent genes during viral infection and attenuates replication of several viruses,;"Skaug B, Chen ZJ. Emerging role of ISG15 in antiviral immunity. Cell. 2010 Oct 15;143(2):187-90. doi: 10.1016/j.cell.2010.09.033. PMID: 20946978; PMCID: PMC2981609.";None;Common Haplotypes
+IGFBP2_1;-0,05553;chr2:IGFBP2:NM_000597:exon1:c.44_45insGCCGCTGCT:p.L21_L22insPLL;724;protection;"The protein encoded by this gene is one of six similar proteins that bind insulin-like growth factors I and II (IGF-I and IGF-II).
+
+";None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=IGFBP2&keywords=IGFBP2;None;Common Haplotypes
+IBSP_4;0,055403;chr4:IBSP:NM_004967:exon7:c.G584A:p.G195E_chr4:IBSP:NM_004967:exon7:c.A638G:p.D213G_chr4:IBSP:NM_004967:exon7:c.A810T:p.E270D;567;Severity;The protein encoded by this gene is a major structural protein of the bone matrix. It constitutes approximately 12% of the noncollagenous proteins in human bone. This protein binds to calcium and hydroxyapatite via its acidic amino acid clusters, and mediates cell attachment through an RGD sequence that recognizes the vitronectin receptor. ;IBSP is a sialoprotein that could bind to integrin as another component in the HCMV receptor system;Interacts with integrins for cell adhesion. That finding further argue for integrins receptor network for HCMV entry.;" Feire AL, Koss H, Compton T. Cellular integrins function as entry receptors for human cytomegalovirus via a highly conserved disintegrin-like domain. Proceedings of the National Academy of Sciences of the United States of America. 2004;101(43):15470–15475.                  Wang A, Ren L, Li H. A systemic network triggered by human cytomegalovirus entry. Adv Virol. 2011;2011:262080. doi: 10.1155/2011/262080. Epub 2011 May 15. PMID: 22312338; PMCID: PMC3263853.                          Alam I, Padgett LR, Ichikawa S, et al. SIBLING family genes and bone mineral density: association and allele-specific expression in humans. Bone. 2014;64:166-172. doi:10.1016/j.bone.2014.04.013";The non-synonymous SNP (G195E) located in exon 8 results in a change from a non-hydrophilic to a hydrophilic residue, which could alter the protein structure and/or function.;Common Haplotypes
+MYO1H_1;-0,05537;chr12:MYO1H:NM_001101421:exon30:c.T3002C:p.L1001P;506;protection;Function is not known;None;None;None;None;Common Haplotypes
+PTPRU_1;0,050854;chr1:PTPRU:NM_001195001:exon18:c.A2789G:p.N930S,PTPRU:NM_133177:exon18:c.A2789G:p.N930S,PTPRU:NM_133178:exon18:c.A2789G:p.N930S,PTPRU:NM_005704:exon19:c.A2819G:p.N940S;582;severity;Tyrosine-protein phosphatase which dephosphorylates CTNNB1. Regulates CTNNB1 function both in cell adhesion and signaling. May function in cell proliferation and migration and play a role in the maintenance of epithelial integrity. May play a role in megakaryocytopoiesis.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRU&keywords=PTPRU;None;Common Haplotypes
+NCOA3_1;-0,04918;chr20:NCOA3:NM_001174087:exon20:c.3760_3762del:p.Q1275del,NCOA3:NM_001174088:exon20:c.3736_3738del:p.Q1267del,NCOA3:NM_006534:exon20:c.3751_3753del:p.Q1272del,NCOA3:NM_181659:exon20:c.3763_3765del:p.Q1276del;472;protection;Nuclear receptor coactivator that interacts with nuclear hormone receptors to enhance their transcriptional activator functions. The encoded protein has histone acetyltransferase activity and recruits p300/CBP-associated factor and CREB binding protein as part of a multisubunit coactivation complex. Is also involved in the coactivation of the NF-kappa-B pathway via its interaction with the NFKB1 subunit.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=NCOA3&keywords=NCOA3;None;Common Haplotypes
+RNF149_1;-0,0419;chr2:RNF149:NM_173647:exon6:c.C1068G:p.D356E;685;protection;Function is not known;None;None;None;None;Common Haplotypes
+LRRC61_1;0,041157;chr7:LRRC61:NM_023942:exon2:c.A428G:p.N143S,LRRC61:NM_001142928:exon3:c.A428G:p.N143S,LRRC61:NM_001363433:exon3:c.A428G:p.N143S,LRRC61:NM_001363434:exon3:c.A428G:p.N143S;578;severity;Function is not known;None;None;None;None;Common Haplotypes
+LOC100506422_1;0,040075;chr9:LOC100506422:NM_001004352:exon6:c.G326T:p.S109I;707;severity;Function is not known;None;None;None;None;Common Haplotypes
+PPP1R9A_1;0,038716;chr7:PPP1R9A:NM_001166161:exon12:c.G2996A:p.R999Q,PPP1R9A:NM_001166162:exon12:c.G3050A:p.R1017Q,PPP1R9A:NM_001166160:exon14:c.G3116A:p.R1039Q;817;severity;This gene is imprinted, and located in a cluster of imprinted genes on chromosome 7q12. It is a regulatory subunit of protein phosphatase I, and controls actin cytoskeleton reorganization. ;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPP1R9A&keywords=PPP1R9A#aliases_descriptions;None;Common Haplotypes
+HEXD_1;0,038199;chr17:HEXD:NM_001369488:exon4:c.A157G:p.I53V,HEXD:NM_001330542:exon5:c.A433G:p.I145V,HEXD:NM_173620:exon5:c.A433G:p.I145V,HEXD:NM_001369487:exon6:c.A157G:p.I53V;772;severity;Responsible for the cleavage of the monosaccharides N-acetylglucosamine (GlcNAc) and N-acetylgalactosamine (GalNAc) from cellular substrates;None;None;"Alteen MG, Oehler V, Nemčovičová I, Wilson IB, Vocadlo DJ, Gloster TM. Mechanism of Human Nucleocytoplasmic Hexosaminidase D. Biochemistry. 2016 May 17;55(19):2735-47. doi: 10.1021/acs.biochem.5b01285. Epub 2016 May 5. PMID: 27149221; PMCID: PMC4878814.";None;Common Haplotypes
+SLC24A3_1;-0,03675;chr20:SLC24A3:NM_020689:exon2:c.G163A:p.V55I;989;protection;Plasma membrane sodium/calcium exchangers are an important component of intracellular calcium homeostasis and electrical conduction.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC24A3&keywords=SLC24A3#function;None;Common Haplotypes
+BCAT2_1;-0,0281;chr19:BCAT2:NM_001164773:exon4:c.C281G:p.T94R,BCAT2:NM_001190:exon6:c.C557G:p.T186R,BCAT2:NM_001284325:exon7:c.C437G:p.T146R;465;protection;This gene encodes a branched chain aminotransferase found in mitochondria. The encoded protein forms a dimer that catalyzes the first step in the production of the branched chain amino acids leucine, isoleucine, and valine.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCAT2&keywords=BCAT2;None;Common Haplotypes
+EPCAM_1;0,022022;chr2:EPCAM:NM_002354:exon3:c.T344C:p.M115T;850;Severity;This gene encodes a carcinoma-associated antigen and is a member of a family that includes at least two type I membrane proteins. This antigen is expressed on most normal epithelial cells and gastrointestinal carcinomas and functions as a homotypic calcium-independent cell adhesion molecule.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPCAM&keywords=EPCAM;None;Common Haplotypes
+FABP1_1;0,019749;chr2:FABP1:NM_001443:exon3:c.A280G:p.T94A;683;Severity;This gene encodes the fatty acid binding protein found in liver. Fatty acid binding proteins are a family of small, highly conserved, cytoplasmic proteins that bind long-chain fatty acids and other hydrophobic ligands.;None;the elevation of HFABP is closely related to the severity of COVID-19 in the patients, and the elevated HFABP may cause rapid development of patients with mild COVID-19 into severe COVID-19.;"Yin L, Mou H, Shao J, Zhu Y, Pang X, Yang J, Zhang J, Shi W, Yu S, Wang H. Correlation between Heart fatty acid binding protein and severe COVID-19: A case-control study. PLoS One. 2020 Apr 29;15(4):e0231687. doi: 10.1371/journal.pone.0231687. PMID: 32348339; PMCID: PMC7190125.";not reported;Common Haplotypes
+MYO1H_3;0,019734;chr12:MYO1H:NM_001101421:exon1:c.C111A:p.S37R_chr12:MYO1H:NM_001101421:exon30:c.T3002C:p.L1001P;474;Severity;MYO1H encodes for the unconventional myosin IH, which is thought to function as a motor protein in intracellular transport and vesicle trafficking.;None;None;"Spielmann M, Hernandez-Miranda LR, Ceccherini I, et alMutations in MYO1H cause a recessive form of central hypoventilation with autonomic dysfunctionJournal of Medical Genetics 2017;54:754-761.";None;Common Haplotypes
+CHPT1_1;-0,01904;chr12:CHPT1:NM_020244:exon3:c.T485C:p.F162S;678;Protection;Catalyzes phosphatidylcholine biosynthesis from CDP-choline. It thereby plays a central role in the formation and maintenance of vesicular membranes.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHPT1&keywords=CHPT1#function;None;Common Haplotypes
+GJE1_1;-0,01484;chr6:GJE1:NM_001358410:exon3:c.C290A:p.A97E;399;Protection;Mediates calcium-independent ATP release, suggesting activity as a hemichannel. Does not form functional gap junctions.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=GJE1&keywords=GJE1;None;Common Haplotypes
+TMEM40_2;-0,01398;chr3:TMEM40:NM_001284406:exon1:c.C35G:p.P12R_chr3:TMEM40:NM_001284406:exon1:c.G7A:p.E3K;786;Protection;TMEM40 represents a potential oncogene, which exert a crucial role in the proliferation and apoptosis via the p53 signaling pathway in bladder cancer.;None;None;https://www.ncbi.nlm.nih.gov/gene/55287#:~:text=TMEM40%20transmembrane%20protein%2040%20%5B%20(human)%5D&text=TMEM40%20represents%20a%20potential%20oncogene,signaling%20pathway%20in%20bladder%20cancer.;None;Common Haplotypes
+C1orf109_1;0,012782;chr1:C1orf109:NM_001350755:exon5:c.T835C:p.Y279H,C1orf109:NM_001350756:exon5:c.T832C:p.Y278H,C1orf109:NM_001350760:exon5:c.T646C:p.Y216H,C1orf109:NM_001350761:exon5:c.T646C:p.Y216H,C1orf109:NM_001350764:exon5:c.T646C:p.Y216H,C1orf109:NM_001350762:exon7:c.T646C:p.Y216H,C1orf109:NM_001350763:exon7:c.T646C:p.Y216H;957;Severity;Function is not known;None;None;None;None;Common Haplotypes
+DNASE2B_2;0,012737;chr1:DNASE2B:NM_021233:exon1:c.G9C:p.Q3H_chr1:DNASE2B:NM_021233:exon2:c.G152A:p.R51K;510;Severity;The protein encoded by this gene shares considerable sequence similarity to, and is structurally related to DNase II. The latter is a well characterized endonuclease that catalyzes DNA hydrolysis in the absence of divalent cations at acidic pH. Unlike DNase II which is ubiquitously expressed, expression of this gene product is restricted to the salivary gland and lungs.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNASE2B&keywords=DNASE2B;None;Common Haplotypes
+ALCAM_2;-0,01237;chr3:ALCAM:NM_001243280:exon7:c.A773G:p.N258S,ALCAM:NM_001243281:exon7:c.A773G:p.N258S,ALCAM:NM_001627:exon7:c.A773G:p.N258S;375;Protection;This gene encodes activated leukocyte cell adhesion molecule (ALCAM), also known as CD166 (cluster of differentiation 166), which is a member of a subfamily of immunoglobulin receptors with five immunoglobulin-like domains (VVC2C2C2) in the extracellular domain. This protein binds to T-cell differentiation antigene CD6, and is implicated in the processes of cell adhesion and migration. Promotes T-cell activation and proliferation via its interactions with CD6.;Cell adhesion molecule that mediates both heterotypic cell-cell contacts via its interaction with CD6, as well as homotypic cell-cell contacts Promotes T-cell activation and proliferation via its interactions with CD6. Contributes to the formation and maturation of the immunological synapse via its interactions with CD6. Mediates homotypic interactions with cells that express ALCAM.;The percentage of monocytes (CD14+) expressing the cell adhesion molecule ALCAM was strongly up-regulated in SARS-CoV-2+ patients compared to both HC and SARS-CoV-2neg patients. This increased frequency was found in younger and older patients and was significantly higher in patients with severe COVID-19 and elevated in patients who showed unfavorable outcome at 30 days. ALCAM is associated with leukocyte transendothelial migration and with the stabilization of the immune synapse. This suggest that monocytes from SARS-CoV-2+ patients could be poised to activate lymphocytes and interact with the endothelium, thus participating in the general inflammatory processes. In addition, deceased patients showed a higher proportion of monocytes expressing ALCAM+.;"Rebillard, Rose-Marie, et al. ""Identification of SARS-CoV-2-specific immune alterations in acutely ill patients."" medRxiv (2020).                                                           Kim, Mi Na, et al. ""Activated leukocyte cell adhesion molecule stimulates the T-cell response in allergic asthma."" American journal of respiratory and critical care medicine 197.8 (2018): 994-1008.";p.N258S variant of ALCAM was found to exhibit protective effects against allergic asthma in children.;Common Haplotypes
+OR13C2_1;0,003794;chr9:OR13C2:NM_001004481:exon1:c.A901G:p.K301E_chr9:OR13C2:NM_001004481:exon1:c.243_244del:p.L82Sfs*39;377;Severity;Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=OR13C2&keywords=OR13C2;None;Common Haplotypes
+ARHGAP25_1;-0,00183;chr2:ARHGAP25:NM_001166276:exon9:c.T1649C:p.M550T,ARHGAP25:NM_001166277:exon9:c.T1550C:p.M517T,ARHGAP25:NM_001364820:exon9:c.T1553C:p.M518T,ARHGAP25:NM_014882:exon9:c.T1646C:p.M549T,ARHGAP25:NM_001007231:exon10:c.T1670C:p.M557T,ARHGAP25:NM_001364819:exon10:c.T1667C:p.M556T,ARHGAP25:NM_001364821:exon10:c.T1592C:p.M531T;626;Protection;"ARHGAPs, such as ARHGAP25, encode negative regulators of Rho GTPases (see ARHA; MIM 165390), which are implicated in actin remodeling, cell polarity, and cell migration";None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARHGAP25&keywords=ARHGAP25;None;Common Haplotypes
+TXLNB_1;-0,0000163;chr6:TXLNB:NM_153235:exon10:c.G1804C:p.A602P;410;?; Promotes motor nerve regeneration. ;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=TXLNB&keywords=TXLNB;None;Common Haplotypes
+SLC25A43_1;-0,164;chrX:SLC25A43:NM_145305:exon5:c.C1001T:p.P334L;616;protective;This gene encodes a member of the mitochondrial carrier family of proteins.;not known;not known;not known;;Common Homozygous
+IL17RC_1;0,148147;chr3:IL17RC:NM_001367279:exon9:c.A800G:p.Q267R,IL17RC:NM_001203265:exon10:c.A875G:p.Q292R,IL17RC:NM_001367280:exon10:c.A875G:p.Q292R,IL17RC:NM_032732:exon10:c.A875G:p.Q292R,IL17RC:NM_001203263:exon11:c.A920G:p.Q307R,IL17RC:NM_001203264:exon11:c.A920G:p.Q307R,IL17RC:NM_001367278:exon11:c.A881G:p.Q294R,IL17RC:NM_153460:exon11:c.A920G:p.Q307R,IL17RC:NM_153461:exon11:c.A1133G:p.Q378R;903;severity;IL17 receptor: Major effector cytokines of innate and adaptive immune system involved in antimicrobial host defense and maintenance of tissue integrity;not known;IL-17–Induced Pulmonary Pathogenesis during Respiratory Viral Infection and Exacerbation of Allergic Disease;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3123803/;;Common Homozygous
+TIGD4_1;0,124131;chr4:TIGD4:NM_145720:exon2:c.A1315G:p.I439V;466;severity;These proteins are related to DNA transposons found in fungi and nematodes;not known;not known;none;;Common Homozygous
+RBM11_1;-0,10306;chr21:RBM11:NM_001320602:exon4:c.T346G:p.L116V,RBM11:NM_144770:exon4:c.T346G:p.L116V;787;Protection;Tissue-specific splicing factor with potential implication in the regulation of alternative splicing during neuron and germ cell differentiation;not known;not known;none;;Common Homozygous
+SPATA5L1_1;0,093945;chr15:SPATA5L1:NM_001323640:exon1:c.G755A:p.R252Q,SPATA5L1:NM_024063:exon1:c.G755A:p.R252Q;165;severity;Involved in morphological and functional mitochondrial transformations during spermatogenesis;not known;Genome-wide pooling approach identifies SPATA5 as a new susceptibility locus for alopecia areata.;https://pubmed.ncbi.nlm.nih.gov/22027810/;;Common Homozygous
+POLI_1;-0,07534;chr18:POLI:NM_001351610:exon1:c.42_44del:p.D17del,POLI:NM_001351613:exon1:c.42_44del:p.D17del,POLI:NM_001351616:exon1:c.42_44del:p.D17del,POLI:NM_001351621:exon1:c.42_44del:p.D17del,POLI:NM_007195:exon1:c.42_44del:p.D17del_chr18:POLI:NM_001351616:exon8:c.G1828A:p.A610T,POLI:NM_001351610:exon9:c.G2065A:p.A689T,POLI:NM_001351613:exon9:c.G1954A:p.A652T,POLI:NM_001351614:exon9:c.G1882A:p.A628T,POLI:NM_001351615:exon9:c.G1882A:p.A628T,POLI:NM_001351617:exon9:c.G1648A:p.A550T,POLI:NM_001351620:exon9:c.G1411A:p.A471T,POLI:NM_001351611:exon10:c.G1987A:p.A663T,POLI:NM_001351612:exon10:c.G1987A:p.A663T,POLI:NM_001351618:exon10:c.G1648A:p.A550T,POLI:NM_001351619:exon10:c.G1648A:p.A550T,POLI:NM_001351632:exon10:c.G2116A:p.A706T,POLI:NM_007195:exon10:c.G2191A:p.A731T;682;Protection;An error-prone DNA polymerase involved in DNA repair;not known;not known;none;;Common Homozygous
+CFHR1_1;-0,07233;chr1:CFHR1:NM_002113:exon4:c.C475G:p.L159V;378;Protection;This gene encodes a secreted protein belonging to the complement factor H protein family.;not known;It binds to Pseudomonas aeruginosa elongation factor Tuf together with plasminogen. It is proposed that Tuf acts as a virulence factor by acquiring host proteins to the pathogen surface, controlling complement, and facilitating tissue invasion.;"Kraivong R, Vasanawathana S, Limpitikul W, et al. Complement alternative pathway genetic variation and Dengue infection in the Thai population. Clin Exp Immunol. 2013;174(2):326-334. doi:10.1111/cei.12184";;Common Homozygous
+CFHR4_1;-0,0708;chr1:CFHR4:NM_001201550:exon3:c.G375T:p.E125D,CFHR4:NM_001201551:exon3:c.G372T:p.E124D;763;Protection;Involved in complement regulation. Can associate with lipoproteins and may play a role in lipid metabolism.;its related pathways are Complement and coagulation cascades. Gene Ontology (GO) annotations related to this gene include lipid transporter activity;Diseases associated with CFHR4 include Hemolytic Uremic Syndrome, Atypical 1 and Hemolytic-Uremic Syndrome.;none;;Common Homozygous
+FASTKD3_1;0,068913;chr5:FASTKD3:NM_024091:exon2:c.A167G:p.K56R;822;severity;Required for normal mitochondrial respiration;not known;not known;none;;Common Homozygous
+MCAT_1;0,0645;chr22:MCAT:NM_173467:exon4:c.C908G:p.A303G;486;severity;It catalyzes the transfer of a malonyl moiety from malonyl-CoA to the free thiol group of the phosphopantetheine arm of the mitochondrial ACP protein;Among its related pathways are Fatty acid biosynthesis (KEGG) and Metabolism. Gene Ontology (GO) annotations related to this gene include [acyl-carrier-protein] S-malonyltransferase activity.;not known;none;;Common Homozygous
+CD52_1;0,063434;chr1:CD52:NM_001803:exon2:c.A119G:p.N40S_chr1:CD52:NM_001803:exon2:c.A123G:p.I41M;719;severity;CD52 is a peptide of 12 amino acids, anchored to glycosylphosphatidylinositol (GPI). Since it is highly negatively charged and present on sperm cells and lymphocytes, it has been conjectured that its function is anti-adhesion, allowing cells to freely move around.;Among its related pathways are Metabolism of proteins and Post-translational modification- synthesis of GPI-anchored proteins.;CD52 is a surface molecule modulated by HIV;https://www.researchgate.net/publication/320458791_CD52_expression_on_CD4_T_cells_in_HIV-positive_individuals_on_cART;;Common Homozygous
+EPCAM_1;0,056853;chr2:EPCAM:NM_002354:exon3:c.T344C:p.M115T;218;severity;This gene encodes a carcinoma-associated antigen and is a member of a family that includes at least two type I membrane proteins. This antigen is expressed on most normal epithelial cells and gastrointestinal carcinomas and functions as a homotypic calcium-independent cell adhesion molecule. The antigen is being used as a target for immunotherapy treatment of human carcinomas. Mutations in this gene result in congenital tufting enteropathy.;Among its related pathways are Cell surface interactions at the vascular wall and Response to elevated platelet cytosolic Ca2+;functional significance of EpCAM re-expression in HBV-mediated hepatocarcinogenesis.;https://pubmed.ncbi.nlm.nih.gov/27238755/;;Common Homozygous
+APOBEC1_1;-0,055;chr12:APOBEC1:NM_005889:exon2:c.G105C:p.M35I,APOBEC1:NM_001644:exon3:c.G240C:p.M80I,APOBEC1:NM_001304566:exon4:c.G240C:p.M80I;1094;Protection;This gene encodes a member of the cytidine deaminase enzyme family. The encoded protein forms a multiple-protein editing holoenzyme with APOBEC1 complementation factor (ACF) and APOBEC1 stimulating protein (ASP).;Among its related pathways are Gene Expression and mRNA Editing- C to U Conversion. Gene Ontology (GO) annotations related to this gene include RNA binding and hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines.;"Human APOBEC3G (hA3G) is a member of the APOBEC-1 related protein (ARP) family of cytidine deaminases. hA3G functions as a natural defense against endogenous retrotransposons and a multitude of retroviruses, most notably human immunodeficiency virus type 1 (HIV-1). RNA editing by host deaminases for instance is an innate restriction process to
+counter virus infection. Recent work revealed evidence for host-dependent RNA editing in
+SARS-CoV-2. Consistent with these reports we find the APOBEC1 complementation factor
+(A1CF) among the most significantly enriched SARS-CoV-2 interactors.";"Giorgio, S. D., Martignano, F., Torcia, M. G., Mattiuz, G. & Conticello, S. G. Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2. Sci Adv 6, eabb5813 (2020). Bennett, Ryan P., et al. ""APOBEC-1 and AID are nucleo-cytoplasmic trafficking proteins but APOBEC3G cannot traffic."" Biochemical and biophysical research communications 350.1 (2006): 214-219.";;Common Homozygous
+CCDC61_1;0,054227;chr19:CCDC61:NM_001267723:exon10:c.A1166G:p.Q389R;714;severity;Function is not known;not known;not known;none;;Common Homozygous
+RALY_1;0,05347;chr20:RALY:NM_007367:exon7:c.641_642insCAG:p.A214_G215insS,RALY:NM_016732:exon8:c.689_690insCAG:p.A230_G231insS;695;severity;The encoded protein plays a role in pre-mRNA splicing.;not known;Knockdown of RALY and hnRNP-C increased levels of viral RNA splicing, protein abundance, and progeny production during infection with E1B55K47 deleted virus. Furthermore, infection with virus deleted for E1B55K resulted in increased interaction of hnRNP-C with viral RNA, and attenuation of viral RNA processing. These data suggest viral-mediated ubiquitination of RALY and hnRNP-C relieves a restriction on viral RNA processing, revealing an unexpected role for non-degradative ubiquitination in manipulation of cellular processes during virus infection.;"Herrmann, Christin, et al. ""Viral-mediated ubiquitination impacts interactions of host proteins with viral RNA and promotes viral RNA processing."" bioRxiv (2020).";;Common Homozygous
+A2ML1_2;0,041013;chr12:A2ML1:NM_001282424:exon9:c.C1077A:p.D359E,A2ML1:NM_144670:exon20:c.C2550A:p.D850E_chr12:A2ML1:NM_001282424:exon18:c.A2213G:p.H738R,A2ML1:NM_144670:exon29:c.A3686G:p.H1229R_chr12:A2ML1:NM_001282424:exon19:c.A2296G:p.M766V,A2ML1:NM_144670:exon30:c.A3769G:p.M1257V;678;severity;This gene encodes a member of the alpha-macroglobulin superfamily. The encoded protein is thought to be an N-glycosylated monomeric protein that acts as an inhibitor of several proteases.;serine-type endopeptidase inhibitor activity and peptidase inhibitor activity;not known;none;;Common Homozygous
+ZNF749_1;0,038556;chr19:ZNF749:NM_001321953:exon2:c.T2051G:p.I684R,ZNF749:NM_001321954:exon2:c.T2051G:p.I684R,ZNF749:NM_001023561:exon3:c.T2312G:p.I771R,ZNF749:NM_001321952:exon3:c.T2291G:p.I764R;422;severity;ZNF749 (Zinc Finger Protein 749) is a Protein Coding gene. Among its related pathways are Gene Expression and Herpes simplex virus 1 infection.;not known;not known;none;;Common Homozygous
+TMEM159_1;0,034935;chr16:TMEM159:NM_001301771:exon5:c.A462C:p.E154D,TMEM159:NM_020422:exon5:c.A462C:p.E154D,TMEM159:NM_001301769:exon6:c.A462C:p.E154D,TMEM159:NM_001301775:exon6:c.A534C:p.E178D;737;severity;Plays an important role in the formation of lipid droplets (LD) which are storage organelles at the center of lipid and energy homeostasis (PubMed:31708432). In association with BSCL2/seipin, defines the sites of LD formation in the endoplasmic reticulum;not known;not known;none;;Common Homozygous
+NBPF3_1;-0,0317;chr1:NBPF3:NM_001256416:exon3:c.A341G:p.Y114C,NBPF3:NM_032264:exon3:c.A341G:p.Y114C,NBPF3:NM_001330381:exon7:c.A173G:p.Y58C;425;Protection;This gene is a member of the neuroblastoma breakpoint family (NBPF) which consists of dozens of recently duplicated genes primarily located in segmental duplications on human chromosome 1.;not known;not known;none;;Common Homozygous
+CILP_3;0,029441;chr15:CILP:NM_003613:exon9:c.G3496A:p.G1166S_chr15:CILP:NM_003613:exon9:c.A2936G:p.Q979R_chr15:CILP:NM_003613:exon9:c.A1723G:p.K575E;638;severity;Probably plays a role in cartilage scaffolding. May act by antagonizing TGF-beta1 (TGFB1) and IGF1 functions.;Among its related pathways are Signaling by GPCR and RET signaling. Gene Ontology (GO) annotations related to this gene include alkaline phosphatase activity and nucleotide diphosphatase activity;not known;none;;Common Homozygous
+FGF21_1;0,029023;chr19:FGF21:NM_019113:exon4:c.T521C:p.L174P;637;severity;Theis gene encodes a member of the fibroblast growth factor (FGF) family. FGF family members possess broad mitogenic and cell survival activities and are involved in a variety of biological processes.;not known;not known;none;;Common Homozygous
+USP44_1;0,027266;chr12:USP44:NM_001042403:exon2:c.A271G:p.T91A,USP44:NM_001278393:exon2:c.A271G:p.T91A,USP44:NM_001347937:exon2:c.A271G:p.T91A,USP44:NM_032147:exon2:c.A271G:p.T91A,USP44:NM_001347936:exon3:c.A271G:p.T91A;388;severity;The protein encoded by this gene is a protease that functions as a deubiquitinating enzyme. The encoded protein is thought to help regulate the spindle assembly checkpoint by preventing early anaphase onset.;not known;Deubiquitinating enzymes USP44 associates with MITA and removes the K48-linked polyubiquitin chains from MITA, therefore maintains the stability of MITA after DNA virus infection. Deficiency of USP44 results in accelerated degradation of MITA, impaired induction of type I IFNs and proinflammatory cytokines, and increased viral replication. These findings suggest that USP44 is a positive regulator of MITA and plays an important role in the regulation of innate immune response against DNA viruses.;"Zhang, Hong-Yan, et al. ""USP44 positively regulates innate immune response to DNA viruses through deubiquitinating MITA."" PLoS Pathogens 16.1 (2020): e1008178.";;Common Homozygous
+COL6A3_3;-0,0265;chr2:COL6A3:NM_057166:exon38:c.C7385T:p.T2462I,COL6A3:NM_057167:exon40:c.C8588T:p.T2863I,COL6A3:NM_004369:exon41:c.C9206T:p.T3069I_chr2:COL6A3:NM_057166:exon38:c.G7213C:p.A2405P,COL6A3:NM_057167:exon40:c.G8416C:p.A2806P,COL6A3:NM_004369:exon41:c.G9034C:p.A3012P_chr2:COL6A3:NM_057166:exon37:c.T6959C:p.M2320T,COL6A3:NM_057167:exon39:c.T8162C:p.M2721T,COL6A3:NM_004369:exon40:c.T8780C:p.M2927T;246;Protection;COL6A3 (Collagen Type VI Alpha 3 Chain) is a Protein Coding gene. Diseases associated with COL6A3 include Bethlem Myopathy 1 and Dystonia 27. Among its related pathways are Integrin Pathway and Collagen chain trimerization.;Among its related pathways are Integrin Pathway and Collagen chain trimerization. Gene Ontology (GO) annotations related to this gene include serine-type endopeptidase inhibitor activity.;not known;none;;Common Homozygous
+FAM184B_2;-0,02395;chr4:FAM184B:NM_015688:exon18:c.T3125C:p.V1042A_chr4:FAM184B:NM_015688:exon13:c.C2350T:p.R784W_chr4:FAM184B:NM_015688:exon10:c.G1928A:p.R643H;499;Protection;FAM184B (Family With Sequence Similarity 184 Member B) is a Protein Coding gene.;not known;not known;none;;Common Homozygous
+MTRR_2;0,015549;chr5:MTRR:NM_001364440:exon2:c.A66G:p.I22M,MTRR:NM_001364441:exon2:c.A66G:p.I22M,MTRR:NM_001364442:exon2:c.A66G:p.I22M,MTRR:NM_002454:exon2:c.A66G:p.I22M,MTRR:NM_024010:exon2:c.A66G:p.I22M;230;severity;Key enzyme in methionine and folate homeostasis responsible for the reactivation of methionine synthase (MTR/MS) activity by catalyzing the reductive methylation of MTR-bound cob(II)alamin;Among its related pathways are Folate Metabolism and Cytochrome P450 - arranged by substrate type. Gene Ontology (GO) annotations related to this gene include oxidoreductase activity and flavin adenine dinucleotide binding.;not known;none;;Common Homozygous
+CHPT1_1;-0,01345;chr12:CHPT1:NM_020244:exon3:c.T485C:p.F162S;140;Protection;Catalyzes phosphatidylcholine biosynthesis from CDP-choline. It thereby plays a central role in the formation and maintenance of vesicular membranes.;Among its related pathways are Phospholipase D signaling pathway and Glycerophospholipid biosynthesis. Gene Ontology (GO) annotations related to this gene include diacylglycerol binding and diacylglycerol cholinephosphotransferase activity.;not known;none;;Common Homozygous
+DISP3_1;0,012098;chr1:DISP3:NM_020780:exon2:c.G544A:p.G182S_chr1:DISP3:NM_020780:exon8:c.G1948A:p.A650T;425;severity;Plays a role in neuronal proliferation and differentiation (PubMed:25281927). Plays a role in the accumulation of cellular cholesterol (By similarity). Involved in intracellular lipid droplet formation.;not known;not known;none;;Common Homozygous
+MTHFD1_1;0,012073;chr14:MTHFD1:NM_001364837:exon6:c.A401G:p.K134R,MTHFD1:NM_005956:exon6:c.A401G:p.K134R;802;severity;MTHFD1 (Methylenetetrahydrofolate Dehydrogenase, Cyclohydrolase And Formyltetrahydrofolate Synthetase 1) is a Protein Coding gene. Among its related pathways are One carbon pool by folate and Folate Metabolism.;Among its related pathways are One carbon pool by folate and Folate Metabolism. Gene Ontology (GO) annotations related to this gene include formate-tetrahydrofolate ligase activity and methylenetetrahydrofolate dehydrogenase (NADP+) activity.;general dependence of the C-1-tetrahydrofolate synthase gene, MTHFD1, for viral replication in bat cells as well as in human cells. MTHFD1 inhibitor carolacton potently blocked replication of several RNA viruses including SARS-CoV-2.;https://www.biorxiv.org/content/10.1101/2020.03.29.014209v1.full.pdf;;Common Homozygous
+COQ7_1;-0,01079;chr16:COQ7:NM_001190983:exon3:c.C194T:p.T65M,COQ7:NM_001370489:exon3:c.C266T:p.T89M,COQ7:NM_001370490:exon3:c.C308T:p.T103M,COQ7:NM_001370491:exon3:c.C266T:p.T89M,COQ7:NM_001370492:exon3:c.C194T:p.T65M,COQ7:NM_001370493:exon3:c.C194T:p.T65M,COQ7:NM_001370494:exon3:c.C194T:p.T65M,COQ7:NM_001370495:exon3:c.C194T:p.T65M,COQ7:NM_016138:exon3:c.C308T:p.T103M;617;Protection;Catalyzes the hydroxylation of 2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol (DMQH2) during ubiquinone biosynthesis. Has also a structural role in the COQ enzyme complex, stabilizing other COQ polypeptides. Involved in lifespan determination in a ubiquinone-independent manner.;Among its related pathways are Metabolism and Ubiquinol biosynthesis.;none;none;;Common Homozygous
+RMI1_1;0,006469;chr9:RMI1:NM_001358291:exon3:c.A1364G:p.N455S,RMI1:NM_001358294:exon3:c.A1364G:p.N455S,RMI1:NM_024945:exon3:c.A1364G:p.N455S,RMI1:NM_001358292:exon4:c.A1364G:p.N455S,RMI1:NM_001358293:exon4:c.A1364G:p.N455S;636;severity;Essential component of the RMI complex, a complex that plays an important role in the processing of homologous recombination intermediates to limit DNA crossover formation in cells.;Among its related pathways are Homologous DNA Pairing and Strand Exchange and Regulation of TP53 Activity.;none;none;;Common Homozygous
+PRSS55_1;0,006406;chr8:PRSS55:NM_001197020:exon1:c.C131G:p.P44R,PRSS55:NM_198464:exon1:c.C131G:p.P44R;711;severity;This gene encodes a member of a group of membrane-anchored chymotrypsin (S1)-like serine proteases. The enocoded protein is primarily expressed in the Leydig and Sertoli cells of the testis and may be involved in male fertility.;Gene Ontology (GO) annotations related to this gene include serine-type endopeptidase activity;none;none;;Common Homozygous
+RHBDF2_1;-0,00628;chr17:RHBDF2:NM_001005498:exon5:c.C536T:p.P179L,RHBDF2:NM_024599:exon6:c.C623T:p.P208L;884;Protection;This gene encodes a member of a group of membrane-anchored chymotrypsin (S1)-like serine proteases. The enocoded protein is primarily expressed in the Leydig and Sertoli cells of the testis and may be involved in male fertility.;Gene Ontology (GO) annotations related to this gene include serine-type endopeptidase activity and growth factor binding.;none;none;;Common Homozygous
+TXNRD1_1;0,004106;chr12:UNKNOWN_chr12:UNKNOWN;861;severity;"
+This gene encodes a protein, which plays a key role in redox homoeostasis";TR1 targets the disulfide bonds in Tat, is an HIV-encoded transactivating protein that is required for virus replication, and acts as a negative regulator of Tat-dependent proviral transcription;TXNRD1 encodes transcriptional activator Tat, whixh negatively regulates the activity of the HIV-1, in human macrophages;"Kalantari P, Narayan V, Natarajan SK, et al. Thioredoxin reductase-1 negatively regulates HIV-1 transactivating protein Tat-dependent transcription in human macrophages. J Biol Chem. 2008;283(48):33183-33190. doi:10.1074/jbc.M807403200";;Common Homozygous
+TP53_1;0,003358;chr17:TP53:NM_001126118:exon3:c.C98G:p.P33R,TP53:NM_000546:exon4:c.C215G:p.P72R,TP53:NM_001126112:exon4:c.C215G:p.P72R,TP53:NM_001126113:exon4:c.C215G:p.P72R,TP53:NM_001126114:exon4:c.C215G:p.P72R,TP53:NM_001276695:exon4:c.C98G:p.P33R,TP53:NM_001276696:exon4:c.C98G:p.P33R,TP53:NM_001276760:exon4:c.C98G:p.P33R,TP53:NM_001276761:exon4:c.C98G:p.P33R;707;severity;"Acts as a tumor suppressor in many tumor types; induces growth arrest or apoptosis depending on the physiological circumstances and cell type. Involved in cell cycle regulation as a trans-activator that acts to negatively regulate cell division by controlling a set of genes required for this process. One of the activated genes is an inhibitor of cyclin-dependent kinases.";In normal cells, the p53 protein level is low. DNA damage and other stress signals may trigger the increase of p53 proteins, which have three major functions: growth arrest, DNA repair and apoptosis (cell death). The growth arrest stops the progression of cell cycle, preventing replication of damaged DNA.;It seems that IAV hijacks p53 by causing its activation, leading to enhanced apoptosis and thus IAV viral replication. However, ample data suggest that p53 also acts as a host antiviral factor that enhances innate and adaptive immune responses in order to battle the infection.;p53 and the Viral Connection: Back into the Future - NCBI - NIH;;Common Homozygous
+CAPN15_rare_AD;-0,634703;protection;This gene encodes a protein containing zinc-finger-like repeats and a calpain-like protease domain. The encoded protein may function as a transcription factor, RNA-binding protein, or in protein-protein interactions during visual system development.;none;none;none;;;;rare_AD
+CASKIN1_rare_AD;-0,440388;protection;"Calcium/calmodulin-dependent serine protein kinase (CASK)-interacting protein 1 (Caskin1) is a direct binding partner of the synaptic adaptor protein CASK. Because Caskin1 forms homo-multimers and binds not only CASK but also other neuronal proteins in vitro, it is anticipated to have neural functions; but its exact role in mammals remains unclear.";none;Enrichment of miR-21a-5p increases PHEV (Porcine hemagglutinating encephalomyelitis virus is a typical neurotropic coronavirus) proliferation by targeting the protein Caskin1, which is required for neuronal axon growth in vivo and in vitro.;Lv XL, Zhao K, Lan YG, Li Z, Ding N, Su JJ, Lu HJ, Song DG, Gao F, He WQ (2017) miR-21a-5p contributes to porcine hemagglutinating encephalomyelitis virus proliferation via targeting CASK-interactive protein1 in vivo and vitro. Front Microbiol 8:304;;;;rare_AD
+GRM6_rare_AD;-0,352224;protection;L-glutamate is the major excitatory neurotransmitter in the central nervous system and activates both ionotropic and metabotropic glutamate receptors. Glutamatergic neurotransmission is involved in most aspects of normal brain function and can be perturbed in many neuropathologic conditions.;none;none;none;;;;rare_AD
+APBA3_rare_AD;0,343117;severity;Amyloid Beta Precursor Protein Binding Family A Member 3, interacts with the Alzheimer's disease amyloid precursor protein. APBA3). APBA3is a member of the Mint protein family, which has a potential role in antiviral immune responses.;The protein interacts with TRAF3 and enhances IRF3 activation and IFN-β secretion;"During viral infection APBA3 expression increases in macrophages. It increases TLR3/4- and RIG-I–induced IRF3 activation. APBA3 inhibition might represent one of the likely targets for the treatment of severe influenza pneumonia.
+APBA3 depletion in mice attenuated fatal influenza pneumonia, reducing inflammatory cytokine/chemokine production in response to influenza virus infection by inactiving HIF-1.";"Mint3 potentiates TLR3/4- and RIG-I–induced IFN-β expression and antiviral immune responses. Wanwan Huai, Hui Song, Zhongxia Yu, Wenwen Wang, Lihui Han, Takeharu Sakamoto, Motoharu Seiki, Lining Zhang, Qunye Zhang, and Wei Zhao PNAS October 18, 2016 113 (42) 11925-11930; first published October 3, 2016.
+Uematsu, T., Fujita, T., Nakaoka, H. et al. Mint3/Apba3 depletion ameliorates severe murine influenza pneumonia and macrophage cytokine production in response to the influenza virus. Sci Rep 6, 37815 (2016). https://doi.org/10.1038/srep37815";;;;rare_AD
+BLK_rare_AD;0,295533;severity;This gene encodes a nonreceptor tyrosine-kinase of the src family of proto-oncogenes that are typically involved in cell proliferation and differentiation. The protein has a role in B-cell receptor signaling and B-cell development. B-cell receptor (BCR) signaling requires a tight regulation of several protein tyrosine kinases and phosphatases, and associated coreceptors (By similarity). Binding of antigen to the B-cell antigen receptor (BCR) triggers signaling that ultimately leads to B-cell activation;none;none;none;;;;rare_AD
+LRP8_rare_AD;0,292496;severity;The gene encodes a member of the low density lipoprotein receptor (LDLR) family. Low density lipoprotein receptors are cell surface proteins that play roles in both signal transduction and receptor-mediated endocytosis of specific ligands for lysosomal degradation. Together with its ligand, apolipoprotein E (apoE), may indirectly play a role in the suppression of the innate immune response by controlling the survival of myeloid-derived suppressor cells (By similarity).;none;none;none;;;;rare_AD
+ZC3H3_rare_AD;0,276845;severity;ZC3H3 (Zinc Finger CCCH-Type Containing 3) is a Protein Coding gene. Required for the export of polyadenylated mRNAs from the nucleus (PubMed:19364924). Enhances ACVR1B-induced SMAD-dependent transcription. Binds to single-stranded DNA but not to double-stranded DNA in vitro. Involved in RNA cleavage;none;none;none;;;;rare_AD
+AKAP17A_rare_AD;0,247594;severity;This locus encodes a protein kinase A anchoring protein. The encoded protein is part of the spliceosome complex and is involved in the regulation of alternate splicing in some mRNA precursors.;none;none;none;;;;rare_AD
+PLEKHG4_rare_AD;0,223547;severity;The protein encoded by this gene can function as a guanine nucleotide exchange factor (GEF) and may play a role in intracellular signaling and cytoskeleton dynamics at the Golgi apparatus.;none;none;none;;;;rare_AD
+EXPH5_rare_AD;0,209548;severity;The protein encoded by this gene is a member of the synaptotagmin-like protein (Slp) family lacking a C2 domain. This protein is thought to be involved in exosome secretion and intracellular vesicle trafficking. Reduced expression of this gene results in keratin filament defects.;none;none;none;;;;rare_AD
+APOL3_rare_AD;0,202569;severity;This gene is a member of the apolipoprotein L gene family, and it is present in a cluster with other family members on chromosome 22. The encoded protein is found in the cytoplasm, where it may affect the movement of lipids, including cholesterol, and/or allow the binding of lipids to organelles.;none;Was proposed that through their effect on PI4KB activity, APOLs control not only actomyosin activities related to vesicular trafficking, but also the generation and elongation of autophagosomes induced by inflammation.;"Pays, Etienne. ""The function of Apolipoproteins L (APOLs): relevance for kidney disease, neurotransmission disorders, cancer and viral infection."" The FEBS Journal (2020).";;;;rare_AD
+MLPH_rare_AD;0,164189;severity;This gene encodes a member of the exophilin subfamily of Rab effector proteins. The protein forms a ternary complex with the small Ras-related GTPase Rab27A in its GTP-bound form and the motor protein myosin Va.;none;none;none;;;;rare_AD
+TICRR_rare_AD;0,155694;severity;The encoded protein is a regulator of DNA replication and S/M and G2/M checkpoints.;none;In the later stages of nCoV19, virus may block the G2/M phase transition to maximise the levels of viral genome. Were found novel (predicted) interactions of host proteins with proteins involved in cell cycle phase transition, among which is TICRR.;"Karunakaran, Kalyani B., N. Balakrishnan, and Madhavi K. Ganapathiraju. ""Interactome of SARS-CoV-2/nCoV19 modulated host proteins with computationally predicted PPIs."" (2020).";;;;rare_AD
+IQCA1_rare_AD;-0,154907;protection;The protein encoded by this gene is a member of the ATPases Associated with diverse cellular Activities (AAA) superfamily.;none;none;none;;;;rare_AD
+SFMBT2_rare_AD;0,149409;severity;SFMBT2 (Scm Like With Four Mbt Domains 2) is a Protein Coding gene. Gene Ontology (GO) annotations related to this gene include sequence-specific DNA binding and histone binding.;none;siRNA-mediated inhibition of lincRNA-SFMBT2 decreased the level of HBV DNA in human liver cancer cells.;"Susluer, Sunde Yilmaz, et al. ""Analysis of long non-coding RNA (lncRNA) expression in hepatitis B patients."" Bosnian journal of basic medical sciences 18.2 (2018): 150.";;;;rare_AD
+INTS1_rare_AD;0,149261;severity;Component of the Integrator (INT) complex, a complex involved in the small nuclear RNAs (snRNA) U1 and U2 transcription and in their 3'-box-dependent processing.;none;none;none;;;;rare_AD
+TENM1_rare_AD;0,147053;severity;The protein encoded by this gene belongs to the tenascin family and teneurin subfamily.;none;none;none;;;;rare_AD
+SPINT1_rare_AD;0,145341;severity;The protein encoded by this gene is a member of the Kunitz family of serine protease inhibitors. The protein is a potent inhibitor specific for HGF activator and is thought to be involved in the regulation of the proteolytic activation of HGF in injured tissues.;none;An analysis of the effect of SARS-CoV-2 infection on host cell protease inhibitors using proteomics data from SARS-CoV-2-infected Caco2 cells showed that the endogenous protease inhibitor SPINT1 (Kunitz-type protease inhibitor 1) is present at lower level in SARS-CoV-2-infected cells than in non-infected control cells 24 h post-infection. SPINT2 controls SARS-CoV-2 viral infection and is associated to disease severity.;"Bojkova, D.; Klann, K.; Koch, B.; Widera, M.; Krause, D.; Ciesek, S.; Cinatl, J.; Münch, C. Proteomics of SARS-CoV-2-infected host cells reveals therapy targets. Nature 2020, 583, 469–472 Alvarez, Carlos Ramirez, et al. ""SPINT2 controls SARS-CoV-2 viral infection and is associated to disease severity."" bioRxiv (2020).";;;;rare_AD
+TASOR_rare_AD;0,133088;severity;Component of the HUSH complex, a multiprotein complex that mediates epigenetic repression. The HUSH complex is recruited to genomic loci rich in H3K9me3 and is required to maintain transcriptional silencing by promoting recruitment of SETDB1.;none;TASOR knockdown counteracted repression of HIV mini-proviruses accelerating viral replication;"de Castro, Ines J., and Marina Lusic. ""Navigating through the nucleus with a virus."" Current opinion in genetics & development 55 (2019): 100-105.";;;;rare_AD
+AFTPH_rare_AD;0,12236;severity;Aftiphilin forms a stable complex with p200 and synergin gamma.The protein contains a clathrin box, with two identified clathrin-binding motifs, and is involved in vesicle-trafficking. Gene Ontology (GO) annotations related to this gene include clathrin binding.;none;none;none;;;;rare_AD
+GSN_rare_AD;0,106644;severity;"The protein encoded by this gene binds to the ""plus"" ends of actin monomers and filaments to prevent monomer exchange. The encoded calcium-regulated protein functions in both assembly and disassembly of actin filaments.";none;none;none;;;;rare_AD
+ITGA7_rare_AD;-0,088931;protection;The protein encoded by this gene belongs to the integrin alpha chain family. Integrins are heterodimeric integral membrane proteins composed of an alpha chain and a beta chain.;none;Given that ACE2 gene is highly expressed in arterial vascular cells, we next employed gene ontology (GO) enrichment analysis among ACE2-expressing arterial vascular cells (cluster 7, GJA4- and HES1-positive cells) in the normal hearts. These cells highly expressed integrin subunit ITGA7, which may participate in viral infection, postinfection immune response, migration, and adhesion of immune cells.;"Guo, Jieyu, et al. ""Single-cell RNA analysis on ACE2 expression provides insight into SARS-CoV-2 blood entry and heart injury."" medRxiv (2020).";;;;rare_AD
+FIP1L1_rare_AD;0,085373;severity;"This gene encodes a subunit of the CPSF (cleavage and polyadenylation specificity factor) complex that polyadenylates the 3' end of mRNA precursors. FIP1L1 is involved 
+in splicing or RNA maturation.";none;none;none;;;;rare_AD
+ZNF808_rare_AD;0,070851;severity;Gene Ontology (GO) annotations related to this gene include nucleic acid binding and DNA-binding transcription factor activity.;none;none;none;;;;rare_AD
+NIBAN3_rare_AD;0,068503;severity;Niban apoptosis regulator 3 may be involved in B cell development and B cell maturation during germinal center reaction.;none;none;none;;;;rare_AD
+CD48_rare_AD;0,065693;severity;This gene encodes a member of the CD2 subfamily of immunoglobulin-like receptors which includes SLAM (signaling lymphocyte activation molecules) proteins. The encoded protein is found on the surface of lymphocytes and other immune cells, dendritic cells and endothelial cells, and participates in activation and differentiation pathways in these cells.;As an adhesion and co-stimulatory molecule, CD48 induces numerous effects in B and T lymphocytes, natural killer cells, mast cells, and eosinophils.;CMV m154 is a mucin-like protein, expressed with early kinetics, which can be found at the cell surface of the infected cell. During infection, m154 leads to proteolytic degradation of CD48. This viral protein interferes with the NK cell cytotoxicity triggered by MCMV-infected macrophages.;"Zarama, Angela, et al. ""Cytomegalovirus m154 hinders CD48 cell-surface expression and promotes viral escape from host natural killer cell control."" PLoS Pathog 10.3 (2014): e1004000. Elishmereni, Moran, and Francesca Levi-Schaffer. ""CD48: A co-stimulatory receptor of immunity."" The international journal of biochemistry & cell biology 43.1 (2011): 25-28.";;;;rare_AD
+TAS1R1_rare_AD;0,064913;severity;The protein encoded by this gene is a G protein-coupled receptor and is a component of the heterodimeric amino acid taste receptor T1R1+3.;none;none;none;;;;rare_AD
+SNED1_rare_AD;0,06012;severity;Sushi, Nidogen And EGF Like Domains 1 is predicted to interact with somatostatin, spermidine synthase and TMEM132C.;none;none;none;;;;rare_AD
+FARP2_rare_AD;0,051245;severity;FARP2 (FERM, ARH/RhoGEF And Pleckstrin Domain Protein 2) is a Protein Coding gene. Diseases associated with FARP2 include Chromosome 2Q37 Deletion Syndrome and Aarskog-Scott Syndrome. Among its related pathways are Ras signaling pathway and Regulation of CDC42 activity.;none;none;none;;;;rare_AD
+MASP1_rare_AD;-0,030269;protection;This gene encodes a serine protease that functions as a component of the lectin pathway of complement activation. The complement pathway plays an essential role in the innate and adaptive immune response. The encoded protein is synthesized as a zymogen and is activated when it complexes with the pathogen recognition molecules of lectin pathway, the mannose-binding lectin and the ficolins. This protein is not directly involved in complement activation but may play a role as an amplifier of complement activation by cleaving complement C2 or by activating another complement serine protease, MASP-2.;C1 complex activity is regulated by C1NH which forms a complex with C1r, C1s, and MASP proteases. C4 is cleaved by activated C1 to produce C4b, an essential component of the C3 and C5 convertases of the classical pathway (UNIPROT). FCN1 initiates the lectin complement cascade via MASP zymogens, e.g. MASP1, which in turn cleave C4.;Upregulation of complement genes MASP1 and ficolin-1 were observed during the first 2 weeks post infection with SARS-CoV-1 with the ferret model.;Cameron MJ, Kelvin AA, Leon AJ et al (2012) Lack of innate interferon responses during SARS coronavirus infection in a vaccination and reinfection ferret model. PLoS ONE 7:e45842;;;;rare_AD
+KRT26_rare_AD;-0,018305;protection;The protein encoded by this gene is a member of the keratin superfamily. This keratin protein is a type I keratin that is specific for the inner root sheath of the hair follicle.;none;none;none;;;;rare_AD
+PXDN_rare_AD;0,015095;severity;This gene encodes a heme-containing peroxidase that is secreted into the extracellular matrix. It is involved in extracellular matrix formation, and may function in the physiological and pathological fibrogenic response in fibrotic kidney.;none;none;none;;;;rare_AD
+TLR5_rare_AD;0,015025;severity;This gene encodes a member of the toll-like receptor (TLR) family, which plays a fundamental role in pathogen recognition and activation of innate immune responses. These receptors recognize distinct pathogen-associated molecular patterns that are expressed on infectious agents. The protein encoded by this gene recognizes bacterial flagellin, the principal component of bacterial flagella and a virulence factor. The activation of this receptor mobilizes the nuclear factor NF-kappaB, which in turn activates a host of inflammatory-related target genes.;Flagellin-mediated TLR5 activation on dendritic cells induces interleukin (IL)-22, whereupon this cytokine production was able to immediately eliminate rotavirus (RV) infection in immune-sufficient and immunocompromised mice.;TLR5 is an extracellular pattern recognition receptor that recognizes flagellin, a structural protein of flagellum found in motile Gram-positive and Gram-negative bacteria. We hypothesize that flagellin could act as a trojan horse ‘danger’ signal, which favorably ‘tricks’ the host to think that immune responses are required to subdue a ‘bacterial’ infection, but instead triggers anti-viral responses to strike SARS-CoV-2.;Golonka RM, Saha P, Yeoh BS, Chattopadhyay S, Gewirtz AT, Joe B, Vijay-Kumar M. Harnessing innate immunity to eliminate SARS-CoV-2 and ameliorate COVID-19 disease. Zhang B, Chassaing B, Shi Z, Uchiyama R, Zhang Z, Denning TL, Crawford SE, Pruijssers AJ, 338 Iskarpatyoti JA, Estes MK, Dermody TS, Ouyang W, Williams IR, Vijay-Kumar M, and Gewirtz AT. Viral 339 infection. Prevention and cure of rotavirus infection via TLR5/NLRC4-mediated production of IL-22 and 340 IL-18. Science 346: 861-865, 2014;;;;rare_AD
+ATG9B_rare_AD;0,011159;severity;Involved in autophagy and cytoplasm to vacuole transport (Cvt) vesicle formation.;none;ATG9B is up-regulated in response to SARS-CoV-2 infection in SARS-CoV-2–infected cell compared to control cell with DESeq2. Atg9B and LAMP1 were downregulated in HPV 16E6/E7 knockdown cells.;"Ahmed, Firoz. ""A Network-Based Analysis Reveals the Mechanism Underlying Vitamin D in Suppressing Cytokine Storm and Virus in SARS-CoV-2 Infection."" Frontiers in immunology 11 (2020). Tingting, Chen, et al. ""Human papillomavirus 16E6/E7 activates autophagy via Atg9B and LAMP1 in cervical cancer cells."" Cancer Medicine 8.9 (2019): 4404-4416.";;;;rare_AD
+DLEC1_rare_AD;0,006949;severity;The cytogenetic location of this gene is 3p21.3, and it is located in a region that is commonly deleted in a variety of malignancies.;none;none;none;;;;rare_AD
+MYH2_rare_AD;-0,006254;protection;The gene encodes a member of the class II or conventional myosin heavy chains, and it is involved in skeletal muscle contraction.;none;none;none;;;;rare_AD
+CAMKK2_rare_AR;0,631482;severity;The encoded protein plays a role in the calcium/calmodulin-dependent (CaM) kinase cascade by phosphorylating the downstream kinases CaMK1 and CaMK4;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMKK2;;;;rare_AR
+WDR27_rare_AR;0,492038;severity;Scaffolds for protein-protein interaction and play key roles in cell signalling;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=WDR27&keywords=WDR27;;;;rare_AR
+PKHD1L1_rare_AR;0,276095;severity;Function is not known;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=PKHD1L1&keywords=PKHD1L1;;;;rare_AR
+NKX2-3_rare_AR;-0,26801;protection;Homeodomain-containing transcription factor with a potential role in cellular differentiation.;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=NKX2-3&keywords=NKX2-3;;;;rare_AR
+TNFAIP2_rare_AR;-0,15443;protection;It is a primary response gene of TNFα, in umbilical vein endothelial cells.;None;It have been found to be statistichally significative in a Network and enrichment analysis of SARS-CoV-2 infection;"Fagone P, Ciurleo R, Lombardo SD, Iacobello C, Palermo CI, Shoenfeld Y, Bendtzen K, Bramanti P, Nicoletti F. Transcriptional landscape of SARS-CoV-2 infection dismantles pathogenic pathways activated by the virus, proposes unique sex-specific differences and predicts tailored therapeutic strategies. Autoimmun Rev. 2020 Jul;19(7):102571. doi: 10.1016/j.autrev.2020.102571. Epub 2020 May 3. PMID: 32376402; PMCID: PMC7252184.";;;;rare_AR
+OR51B5_rare_AR;-0,11316;protection;Olfactory receptors ;The inflammatory products locally released in COVID-19, leading to a local damage and causing olfactory loss, simultaneously may interfere with the viral spread into the central nervous system.;Anosmia is a well-described symptom of Corona Virus Disease 2019 (COVID-19). Several respiratory viruses are able to cause post-viral olfactory dysfunction, suggesting a sensorineural damage. Since the olfactory bulb is considered an immunological organ contributing to prevent the invasion of viruses, it could have a role in host defense.;"COVID-19-Related Anosmia: The Olfactory Pathway Hypothesis and Early Intervention
+Alessandra Gori1, Fabrizio Leone1, Lorenzo Loffredo2, Bianca Laura Cinicola1, Giulia Brindisi1, Giovanna De Castro1, Alberto Spalice3, Marzia Duse1 and Anna Maria Zicari1*";;;;rare_AR
+TACR2_rare_AR;0,058386;severity;It is a receptor for tachykinins;None;None;https://www.genecards.org/cgi-bin/carddisp.pl?gene=TACR2&keywords=TACR2;;;;rare_AR
+HRCT1_rare_AR;0,043119;severity;Function is not known;None;None;None;;;;rare_AR
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
